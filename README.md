@@ -10,10 +10,10 @@ Live code link on Netlify : https://glowing-cendol-b19305.netlify.app/
 
 => I want to learn new thing. That's why I make a developement website.
 
-=> firts page is including header and banner 
+=> Firts page has header and banner 
 
 => I used my custom json file to load data dynamically 
 
-=> Dash board data also json file 
+=> In Dashboard data, also I use json file 
 
-=> used hooks to make code clean 
+=> I used hooks to make code clean 
