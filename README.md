@@ -1,6 +1,6 @@
 Project Name: Personal Development
 
-Live code link on Netlify : 
+Live code link on Netlify : https://glowing-cendol-b19305.netlify.app/
 
 I have done on my website is given below:
 
