@@ -1,15 +1,20 @@
-Project Name: Personal Development
+# Product Analysis Website
 
-Live code link on Netlify : https://glowing-cendol-b19305.netlify.app/
+## [Private repo link](https://classroom.github.com/a/8blYLhL7)
+[https://classroom.github.com/a/8blYLhL7](https://classroom.github.com/a/8blYLhL7)
 
-I have done on my website is given below:
+MY Project name : KGF2
 
-=> I love to explore new things. That's why I build a personal development website
+Live code link on Netlify : https://kgf-2.netlify.app/home
 
-=> first page is including header and banner and after that, i added some user review
+ i have done in my website 
 
-=> I used my custom JSON file to load data dynamically
+=> i am movie lover, so i create a movie review web
 
-=> Dashboard data also JSON file
+=> firts page is including header and banner and after that i added some user review
 
-=> used hooks to make code clean 
+=> i used my custom json file to load data dynamicly 
+
+=> Dash board data also json file 
+
+=> used hooks to make code clean and avoiding DCY 
