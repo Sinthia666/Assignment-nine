@@ -1,0 +1,9 @@
+.dashboard {
+    margin-top: 30px;
+    margin-bottom: 30px;
+    display: flex;
+    padding-left: 20px;
+    padding-right: 20px;
+    justify-content: center;
+    align-items: center;
+}

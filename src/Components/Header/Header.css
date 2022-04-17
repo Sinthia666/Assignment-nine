@@ -1,0 +1,19 @@
+.header {
+    text-align: center;
+    font-weight: bold;
+    padding: 50px;
+    text-align: center;
+}
+
+
+nav a {
+
+    font-size: 30px;
+    text-decoration: none;
+    color: orange;
+    margin-right: 25px;
+}
+
+nav a:hover {
+    color: Blue;
+}
