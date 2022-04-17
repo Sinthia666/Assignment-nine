@@ -1,15 +1,14 @@
-# Product Analysis Website
+# Personal Development Courese
 
-## [Private repo link](https://classroom.github.com/a/8blYLhL7)
-[https://classroom.github.com/a/8blYLhL7](https://classroom.github.com/a/8blYLhL7)
 
-MY Project name : KGF2
 
-Live code link on Netlify : https://kgf-2.netlify.app/home
+MY Project name : Personal Development Courese
 
- i have done in my website 
+Live code link on Netlify : https://glowing-cendol-b19305.netlify.app/
 
-=> i am movie lover, so i create a movie review web
+ I have done in my website 
+
+=> I want to learn new thing. That's why I make a developement website.
 
 => firts page is including header and banner and after that i added some user review
 
